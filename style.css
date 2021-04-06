@@ -147,8 +147,8 @@ img {
 }
 #problemIllust {
     position: absolute;
-    top: 20px;
-    right: -20px;
+    top: 50px;
+    right: 150px;
 }
 
 .serviceVer {
@@ -2420,15 +2420,13 @@ input {
 }
 
 #problemIllust {
-    width: 300%;
-    margin-top: -20px;
-	margin-right: -60px;
+    width: 90%;
 }
 
 .serviceVer {
     margin-left: 30px;
-    margin-top: 160px;
     width: 85%;
+	margin-top: 150px;
 }
 
 h2 {
@@ -2440,6 +2438,10 @@ h2 {
 	margin-top: 20px;
 	text-align: center;
     font-size: 17px;
+}
+
+.top_img {
+    min-height: 360px;
 }
 
 
