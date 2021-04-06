@@ -35,7 +35,6 @@ img {
 .inner {
     width: 980px;
     margin: 0 auto;
-    padding: 0;
     position: relative;
 }
 
@@ -97,12 +96,7 @@ img {
     top: 65px;
     left: 106px;
 }
-.inner {
-    width: 980px;
-    margin: 0 auto;
-    padding: 0;
-    position: relative;
-}
+
 .common__ttl-style {
     position: relative;
     margin: 0 0 35px;
@@ -1724,7 +1718,7 @@ header h1 {
 
 #problemArea .contentWrapper ul li {
     display: block;
-    margin: 0 25px;
+    margin-left: -15px;
 }
 
 .serviceVer {
@@ -2291,6 +2285,11 @@ header h1 {
 
 .content table.table_form th {
 	border-right: none !important;
+}
+
+#problemIllust img{
+	margin: auto;
+	width: 90%;	
 }
 
 /*
