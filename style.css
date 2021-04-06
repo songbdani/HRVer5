@@ -2420,6 +2420,7 @@ input {
 
 #problemIllust {
     width: 90%;
+	margin-right: -150px;
 }
 
 .serviceVer {
@@ -2437,6 +2438,7 @@ h2 {
 	margin-top: 20px;
 	text-align: center;
     font-size: 17px;
+	margin-left: 50px;
 }
 
 .top_img {
